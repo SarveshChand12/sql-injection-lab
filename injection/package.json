@@ -2,7 +2,7 @@
   "name": "injection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sarveshchand12.github.io/sql-injection-lab ",
+  "homepage": "https://sarveshchand12.github.io/sql-injection-lab/injection ",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
